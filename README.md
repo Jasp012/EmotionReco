@@ -19,3 +19,13 @@ To be able to objectively measure the performance for the followers' entries, th
 <div align="center">
   <img src="https://github.com/Jasp012/EmotionReco/blob/main/raf_db_samples.png">
 </div>
+
+## Basic use 
+
+In the jupyter notebook Main.ipynb --> select hyperparameters and train models 
+
+You can visualize training and results thanks to the tensorboard framework
+
+Open a terminal and use this command : tensorboard --logdir runs 
+Open a web browser and copy paste the link provided (similar to http://localhost:6006/)
+
