@@ -17,7 +17,7 @@ Real-world Affective Faces Database (RAF-DB) is a large-scale facial expression 
 To be able to objectively measure the performance for the followers' entries, the database has been split into a training set and a test set where the size of training set is five times larger than test set, and expressions in both sets have a near-identical distribution.
 
 <div align="center">
-  <img src="https://github.com/Jasp012/EmotionReco/web_page_img.png">
+  <img src="https://github.com/Jasp012/EmotionReco/raf_db_samples.png">
 </div>
 
 ## Preprocess Data
