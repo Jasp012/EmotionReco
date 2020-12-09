@@ -27,5 +27,6 @@ In the jupyter notebook Main.ipynb --> select hyperparameters and train models
 You can visualize training and results thanks to the tensorboard framework
 
 Open a terminal and use this command : tensorboard --logdir runs 
+
 Open a web browser and copy paste the link provided (similar to http://localhost:6006/)
 
