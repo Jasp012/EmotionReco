@@ -20,14 +20,4 @@ To be able to objectively measure the performance for the followers' entries, th
   <img src="https://github.com/Jasp012/EmotionReco/raf_db_samples.png">
 </div>
 
-## Preprocess Data
 
-
-
-## Load Data
-
-## Build a model 
-
-## Train a model
-
-## Grid Search
